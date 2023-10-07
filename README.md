@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Naik</h1>
-<h3 align="center">a Full Stack Software Engineer from 🇮🇳 passionate about developing production-ready applications with 1+ years of professional onsite as well as remote working experience. 🎯</h3>
+<h3 align="center">a Full Stack Software Engineer from 🇮🇳 passionate about developing production-ready applications and remote working experience. 🎯</h3>
 <img align="right" alt="Coading" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-naik92&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-naik92" /> </p>
